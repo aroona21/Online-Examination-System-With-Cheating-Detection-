@@ -18,7 +18,7 @@ The Online Examination Management System provides a secure platform for managing
 - AI-based Cheating Detection Concept
 - Performance Reports
 
-**Software Engineering Artifacts **
+**Software Engineering Artifacts**
 
 - Software Requirements Specification
 - UML Diagrams
